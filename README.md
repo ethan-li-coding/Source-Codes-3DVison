@@ -3,6 +3,17 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 
 三维重建开源代码汇总，不定期更新。
 
+[1 SFM](#sfm)<br>
+[2 MVS](#mvs)<br>
+[3 SLAM](#slam)<br>
+[4 特征匹配](#特征匹配)<br>
+[5 立体匹配](#立体匹配)<br>
+[6 点云拼接](#点云拼接)<br>
+[7 网格构建](#网格构建)<br>
+[8 点云网格处理](#点云网格处理)<br>
+[9 纹理映射](#纹理映射)<br>
+[10 点云渲染](#点云渲染)<br>
+
 ## SFM
 - **openmvg【3.5k stars】【Mozilla Public License Version 2.0】【[https://github.com/openMVG/openMVG](https://github.com/openMVG/openMVG)】**<br>
 一个多视几何三维重建算法库，从无序二维影像集恢复相机的三维位姿。SFM（Structure From Motion）经典算法库。<br>
@@ -81,7 +92,7 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 - **PoissonRecon 【700+ stars】【MIT License】【[https://github.com/mkazhdan/PoissonRecon](https://github.com/mkazhdan/PoissonRecon)】**<br>
 泊松重建，一个网格构建算法，输入是带法线的无序点云。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527103440884.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
-## 点云/网格处理
+## 点云网格处理
 - **pcl【6.3k stars】【BSD License】【[https://github.com/PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)】**<br>
 这大概是使用最广泛的点云处理算法库，你可以用它来显示图片、显示点云，它还实现了非常多的点云处理算法，如点云滤波、点云配准、点云分割等，它的官方网站是[https://pointclouds.org/](https://pointclouds.org/)。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210604092243655.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
