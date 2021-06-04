@@ -12,7 +12,7 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 [7 网格构建](#网格构建)<br>
 [8 点云网格处理](#点云网格处理)<br>
 [9 纹理映射](#纹理映射)<br>
-[10 点云渲染](#点云渲染)<br>
+[10 三维渲染](#三维渲染)<br>
 
 ## SFM
 - **openmvg【3.5k stars】【Mozilla Public License Version 2.0】【[https://github.com/openMVG/openMVG](https://github.com/openMVG/openMVG)】**<br>
@@ -110,7 +110,7 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 微软开源的一个自动UV展开算法，UV展开可以用于将网格映射到一张二维UV图上，网格映射的纹理就可以用一张UV图来组织，提高纹理图的利用率。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210604091745365.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
 
-## 点云渲染
+## 三维渲染
 - **potree 【2.3k stars】【FreeBSD Licnese】【[https://github.com/potree/potree](https://github.com/potree/potree)】**<br>
 一个基于WebGL的大型点云渲染工程，很有意思。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527095334910.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
