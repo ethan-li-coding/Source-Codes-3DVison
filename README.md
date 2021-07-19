@@ -15,22 +15,24 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 [10 三维渲染](#三维渲染)<br>
 
 ## SFM
-- **openmvg【3.5k stars】【Mozilla Public License Version 2.0】【[https://github.com/openMVG/openMVG](https://github.com/openMVG/openMVG)】**<br>
+- **Openmvg【3.5k stars】【Mozilla Public License Version 2.0】【[https://github.com/openMVG/openMVG](https://github.com/openMVG/openMVG)】**<br>
 一个多视几何三维重建算法库，从无序二维影像集恢复相机的三维位姿。SFM（Structure From Motion）经典算法库。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527092742723.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
 
-- **colmap【3k stars】【new BSD license】【[https://github.com/colmap/colmap](https://github.com/colmap/colmap)】**<br>
+- **Colmap【3k stars】【new BSD license】【[https://github.com/colmap/colmap](https://github.com/colmap/colmap)】**<br>
 一个多视几何三维重建算法库，从无序二维影像集恢复相机的三维位姿（SFM）以及多视立体重建（MVS）。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527092509685.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
-- **alicevision【1.8k stars】【MPL2 license】【[https://github.com/alicevision/AliceVision](https://github.com/alicevision/AliceVision)】**<br>
+- **AliceVision【1.8k stars】【MPL2 license】【[https://github.com/alicevision/AliceVision](https://github.com/alicevision/AliceVision)】**<br>
 一个开源的摄影测量系统框架。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527092356416.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
 - **TheiaSfM【600+k stars】【New BSD license】【[https://github.com/sweeneychris/TheiaSfM](https://github.com/sweeneychris/TheiaSfM)】**<br>
 谷歌推出的开源SFM算法库。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210629235309546.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
+- **MVE【700+k stars】【BSD 3-Clause License】【[https://github.com/simonfuhrmann/mve](https://github.com/simonfuhrmann/mve)】**<br>
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210719230452465.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
 - **OpenSfM【2.2k stars】【BSD license】【[https://github.com/mapillary/OpenSfM](https://github.com/mapillary/OpenSfM)】**<br>
 一个用Python实现的SFM算法库。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210629233426494.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210629233426494.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
 
 ## MVS
 - **openmvs【1.6k stars】【AGPLv3】【[https://github.com/cdcseacave/openMVS](https://github.com/cdcseacave/openMVS)】**<br>
@@ -39,7 +41,6 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 - **meshroom【6.5k stars】【MPL2 license】【[https://github.com/alicevision/meshroom](https://github.com/alicevision/meshroom)】**<br>
 和OpenMVS库一样，也是基于带有位姿信息的图像集，重建高质量的纹理模型，但是效果没有OpenMVS好，速度更快些。带有图形界面，做的很漂亮。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527230158531.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
-
 ## SLAM
 ### VSLAM
 - **orb-slam2【6.2k stars】【GPLv3 license】【[https://github.com/raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)】**<br>
@@ -73,12 +74,10 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 	- **tsdf-fusion 【400+ stars】 【BSD-2-Clause License】【[https://github.com/andyzeng/tsdf-fusion](https://github.com/andyzeng/tsdf-fusion)】**<br>
 	一个将多个已配准的深度图融合为TSDF体素的算法，TSDF体素可以用于Marching Cubes网格构建<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527095350635.png)
-
 ## 特征匹配
 - **CudaSift【570+ stars】【non-commercial】【[https://github.com/Celebrandil/CudaSift](https://github.com/Celebrandil/CudaSift)】**<br>
 一个CUDA实现的快速SIFT算法，SIFT是经典的尺度不变性特征匹配算法<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527102714228.png)
-
 ## 立体匹配
 - **SemiglobalMatching（SGM）【400+ stars】【MIT License】【[https://github.com/ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching)】**<br>
 经典半全局立体匹配算法SGM算法库。效率高适应性强。<br>
@@ -89,7 +88,9 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 -**AD-Cense 【160+ stars】【MIT License】【[https://github.com/ethan-li-coding/AD-Census](https://github.com/ethan-li-coding/AD-Census)】**<br>
 经典AD-Census立体匹配算法，效率高，效果好。Intel RealSense D400 Stereo模块算法。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527093850854.png)
-
+-**MC-CNN【600+ stars】【BSD-2-Clause License】【[https://github.com/jzbontar/mc-cnn](https://github.com/jzbontar/mc-cnn)】**<br>
+深度学习立体匹配算法的经典之作。<br>
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210719230125252.png)
 ## 点云拼接
  - **ICPCUDA【400+ stars】【No License】【[https://github.com/mp3guy/ICPCUDA](https://github.com/mp3guy/ICPCUDA)】**<br>
  一个基于深度图数据（DepthMap）的快速ICP拼接库（CUDA加速），对于VGA尺寸（640x480），在NVIDIA GeForce GTX TITAN X上可达750Hz的速度。作者同时开源了[KinectFusion](https://github.com/mp3guy/ElasticFusion)。<br>
@@ -99,12 +100,10 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 - **Super4PCS【300+ stars】【Apache License V2】【[https://github.com/nmellado/Super4PCS](https://github.com/nmellado/Super4PCS)】**<br>
 点云粗匹配算法Super4PCS的实现。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527232502495.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
-
 ## 网格构建
 - **PoissonRecon 【700+ stars】【MIT License】【[https://github.com/mkazhdan/PoissonRecon](https://github.com/mkazhdan/PoissonRecon)】**<br>
 泊松重建，一个网格构建算法，输入是带法线的无序点云。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527103440884.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
-
 ## 点云网格处理
 - **pcl【6.3k stars】【BSD License】【[https://github.com/PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)】**<br>
 这大概是使用最广泛的点云处理算法库，你可以用它来显示图片、显示点云，它还实现了非常多的点云处理算法，如点云滤波、点云配准、点云分割等，它的官方网站是[https://pointclouds.org/](https://pointclouds.org/)。<br>
@@ -115,7 +114,6 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 - **vcglib【560+ stars】【GPLv3.0 License】【[http://vcg.isti.cnr.it/vcglib/](http://vcg.isti.cnr.it/vcglib/)】**<br>
 和OpenMesh一样的网格处理基础算法库，也很高效和稳定，比较有名的网格处理软件MeshLib就是用的它。<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527233556459.png)
-
 ## 纹理映射
 - **mvs-texturing【500+ stars】【BSD 3-Clause License】【[https://github.com/nmoehrle/mvs-texturing](https://github.com/nmoehrle/mvs-texturing)】**<br>
 一个用于多视立体重建的纹理映射算法库，OpenMVS、MVE都是使用这个算法来做纹理映射。<br>
@@ -130,5 +128,6 @@ Source codes collection for 3d vision 视觉三维重建领域的源码收集
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210527095334910.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3JzX2x5cw==,size_16,color_FFFFFF,t_70)
 - **OpenSceneGraph（OSG）【2.2k stars】【 OpenSceneGraph Public License】【[https://github.com/openscenegraph/OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)】**<br>
 一个非常成熟好用的跨平台三维数据渲染库，渲染包括点云、网格、纹理模型在内的三维数据，适合在大型软件里作为渲染引擎，还可以处理LOD数据。<br>
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210719225358982.png)
 - **Pangolin【1.3k stars】【MIT License】【[https://github.com/stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)】**<br>
 一个轻量级的跨平台三维渲染库，可用于slam相关项目的渲染引擎。<br>
